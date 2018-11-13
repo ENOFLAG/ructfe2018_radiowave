@@ -1,0 +1,344 @@
+14:25:32 [INFO] Loading from snapshot
+14:25:33 [INFO] Loading from tail
+14:25:33 [INFO] Loaded 73 keys
+14:25:33 [INFO] HTTP listen at '127.0.0.1:17778'
+14:25:33 [INFO] WS broadcasting at '127.0.0.1:17777'
+14:25:33 [INFO] Listening for new connections on 127.0.0.1:17777.
+14:26:33 [INFO] Start snapshot
+14:26:33 [INFO] Finish snapshot
+14:27:33 [INFO] Start snapshot
+14:27:33 [INFO] Finish snapshot
+14:28:33 [INFO] Start snapshot
+14:28:33 [INFO] Finish snapshot
+14:29:33 [INFO] Start snapshot
+14:29:33 [INFO] Finish snapshot
+14:30:33 [INFO] CleanUp! elapsed: 2ms, msg deleted: 30
+14:30:33 [INFO] Start snapshot
+14:30:33 [INFO] Finish snapshot
+14:31:33 [INFO] Start snapshot
+14:31:33 [INFO] Finish snapshot
+14:32:33 [INFO] Start snapshot
+14:32:33 [INFO] Finish snapshot
+14:33:33 [INFO] Start snapshot
+14:33:33 [INFO] Finish snapshot
+14:34:33 [INFO] Start snapshot
+14:34:33 [INFO] Finish snapshot
+14:35:33 [INFO] CleanUp! elapsed: 1ms, msg deleted: 12
+14:35:33 [INFO] Start snapshot
+14:35:33 [INFO] Finish snapshot
+14:36:33 [INFO] Start snapshot
+14:36:33 [INFO] Finish snapshot
+14:37:33 [INFO] Start snapshot
+14:37:33 [INFO] Finish snapshot
+14:38:33 [INFO] Start snapshot
+14:38:33 [INFO] Finish snapshot
+14:39:33 [INFO] Start snapshot
+14:39:33 [INFO] Finish snapshot
+14:40:33 [INFO] CleanUp! elapsed: 1ms, msg deleted: 16
+14:40:33 [INFO] Start snapshot
+14:40:33 [INFO] Finish snapshot
+14:41:33 [INFO] Start snapshot
+14:41:33 [INFO] Finish snapshot
+14:42:33 [INFO] Start snapshot
+14:42:33 [INFO] Finish snapshot
+14:43:33 [INFO] Start snapshot
+14:43:33 [INFO] Finish snapshot
+14:44:33 [INFO] Start snapshot
+14:44:33 [INFO] Finish snapshot
+14:45:33 [INFO] CleanUp! elapsed: 1ms, msg deleted: 12
+14:45:33 [INFO] Start snapshot
+14:45:33 [INFO] Finish snapshot
+14:46:34 [INFO] Start snapshot
+14:46:34 [INFO] Finish snapshot
+14:47:34 [INFO] Start snapshot
+14:47:34 [INFO] Finish snapshot
+14:48:34 [INFO] Start snapshot
+14:48:34 [INFO] Finish snapshot
+14:49:34 [INFO] Start snapshot
+14:49:34 [INFO] Finish snapshot
+14:50:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 15
+14:50:34 [INFO] Start snapshot
+14:50:34 [INFO] Finish snapshot
+14:51:34 [INFO] Start snapshot
+14:51:34 [INFO] Finish snapshot
+14:52:34 [INFO] Start snapshot
+14:52:34 [INFO] Finish snapshot
+14:53:34 [INFO] Start snapshot
+14:53:34 [INFO] Finish snapshot
+14:54:34 [INFO] Start snapshot
+14:54:34 [INFO] Finish snapshot
+14:55:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 5
+14:55:34 [INFO] Start snapshot
+14:55:34 [INFO] Finish snapshot
+14:56:34 [INFO] Start snapshot
+14:56:34 [INFO] Finish snapshot
+14:57:34 [INFO] Start snapshot
+14:57:34 [INFO] Finish snapshot
+14:58:34 [INFO] Start snapshot
+14:58:34 [INFO] Finish snapshot
+14:59:34 [INFO] Start snapshot
+14:59:34 [INFO] Finish snapshot
+15:00:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:00:34 [INFO] Start snapshot
+15:00:34 [INFO] Finish snapshot
+15:01:34 [INFO] Start snapshot
+15:01:34 [INFO] Finish snapshot
+15:02:34 [INFO] Start snapshot
+15:02:34 [INFO] Finish snapshot
+15:03:34 [INFO] Start snapshot
+15:03:34 [INFO] Finish snapshot
+15:04:34 [INFO] Start snapshot
+15:04:34 [INFO] Finish snapshot
+15:05:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:05:34 [INFO] Start snapshot
+15:05:34 [INFO] Finish snapshot
+15:06:34 [INFO] Start snapshot
+15:06:34 [INFO] Finish snapshot
+15:07:34 [INFO] Start snapshot
+15:07:34 [INFO] Finish snapshot
+15:08:34 [INFO] Start snapshot
+15:08:34 [INFO] Finish snapshot
+15:09:34 [INFO] Start snapshot
+15:09:34 [INFO] Finish snapshot
+15:10:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:10:34 [INFO] Start snapshot
+15:10:34 [INFO] Finish snapshot
+15:11:34 [INFO] Start snapshot
+15:11:34 [INFO] Finish snapshot
+15:12:34 [INFO] Start snapshot
+15:12:34 [INFO] Finish snapshot
+15:13:34 [INFO] Start snapshot
+15:13:34 [INFO] Finish snapshot
+15:14:34 [INFO] Start snapshot
+15:14:34 [INFO] Finish snapshot
+15:15:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:15:34 [INFO] Start snapshot
+15:15:34 [INFO] Finish snapshot
+15:16:34 [INFO] Start snapshot
+15:16:34 [INFO] Finish snapshot
+15:17:34 [INFO] Start snapshot
+15:17:34 [INFO] Finish snapshot
+15:18:34 [INFO] Start snapshot
+15:18:34 [INFO] Finish snapshot
+15:19:34 [INFO] Start snapshot
+15:19:34 [INFO] Finish snapshot
+15:20:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:20:34 [INFO] Start snapshot
+15:20:34 [INFO] Finish snapshot
+15:21:34 [INFO] Start snapshot
+15:21:34 [INFO] Finish snapshot
+15:22:34 [INFO] Start snapshot
+15:22:34 [INFO] Finish snapshot
+15:23:34 [INFO] Start snapshot
+15:23:34 [INFO] Finish snapshot
+15:24:34 [INFO] Start snapshot
+15:24:34 [INFO] Finish snapshot
+15:25:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:25:34 [INFO] Start snapshot
+15:25:34 [INFO] Finish snapshot
+15:26:34 [INFO] Start snapshot
+15:26:34 [INFO] Finish snapshot
+15:27:34 [INFO] Start snapshot
+15:27:34 [INFO] Finish snapshot
+15:28:34 [INFO] Start snapshot
+15:28:34 [INFO] Finish snapshot
+15:29:34 [INFO] Start snapshot
+15:29:34 [INFO] Finish snapshot
+15:30:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:30:34 [INFO] Start snapshot
+15:30:34 [INFO] Finish snapshot
+15:31:34 [INFO] Start snapshot
+15:31:34 [INFO] Finish snapshot
+15:32:34 [INFO] Start snapshot
+15:32:34 [INFO] Finish snapshot
+15:33:34 [INFO] Start snapshot
+15:33:34 [INFO] Finish snapshot
+15:34:34 [INFO] Start snapshot
+15:34:34 [INFO] Finish snapshot
+15:35:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:35:34 [INFO] Start snapshot
+15:35:34 [INFO] Finish snapshot
+15:36:34 [INFO] Start snapshot
+15:36:34 [INFO] Finish snapshot
+15:37:34 [INFO] Start snapshot
+15:37:34 [INFO] Finish snapshot
+15:38:34 [INFO] Start snapshot
+15:38:34 [INFO] Finish snapshot
+15:39:34 [INFO] Start snapshot
+15:39:34 [INFO] Finish snapshot
+15:40:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:40:34 [INFO] Start snapshot
+15:40:34 [INFO] Finish snapshot
+15:41:34 [INFO] Start snapshot
+15:41:34 [INFO] Finish snapshot
+15:42:34 [INFO] Start snapshot
+15:42:34 [INFO] Finish snapshot
+15:43:34 [INFO] Start snapshot
+15:43:34 [INFO] Finish snapshot
+15:44:34 [INFO] Start snapshot
+15:44:34 [INFO] Finish snapshot
+15:45:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:45:34 [INFO] Start snapshot
+15:45:34 [INFO] Finish snapshot
+15:46:34 [INFO] Start snapshot
+15:46:34 [INFO] Finish snapshot
+15:47:34 [INFO] Start snapshot
+15:47:34 [INFO] Finish snapshot
+15:48:34 [INFO] Start snapshot
+15:48:34 [INFO] Finish snapshot
+15:49:34 [INFO] Start snapshot
+15:49:34 [INFO] Finish snapshot
+15:50:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:50:34 [INFO] Start snapshot
+15:50:34 [INFO] Finish snapshot
+15:51:34 [INFO] Start snapshot
+15:51:34 [INFO] Finish snapshot
+15:52:34 [INFO] Start snapshot
+15:52:34 [INFO] Finish snapshot
+15:53:35 [INFO] Start snapshot
+15:53:35 [INFO] Finish snapshot
+15:54:35 [INFO] Start snapshot
+15:54:35 [INFO] Finish snapshot
+15:55:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+15:55:35 [INFO] Start snapshot
+15:55:35 [INFO] Finish snapshot
+15:56:35 [INFO] Start snapshot
+15:56:35 [INFO] Finish snapshot
+15:57:35 [INFO] Start snapshot
+15:57:35 [INFO] Finish snapshot
+15:58:35 [INFO] Start snapshot
+15:58:35 [INFO] Finish snapshot
+15:59:35 [INFO] Start snapshot
+15:59:35 [INFO] Finish snapshot
+16:00:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:00:35 [INFO] Start snapshot
+16:00:35 [INFO] Finish snapshot
+16:01:35 [INFO] Start snapshot
+16:01:35 [INFO] Finish snapshot
+16:02:35 [INFO] Start snapshot
+16:02:35 [INFO] Finish snapshot
+16:03:35 [INFO] Start snapshot
+16:03:35 [INFO] Finish snapshot
+16:04:35 [INFO] Start snapshot
+16:04:35 [INFO] Finish snapshot
+16:05:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:05:35 [INFO] Start snapshot
+16:05:35 [INFO] Finish snapshot
+16:06:35 [INFO] Start snapshot
+16:06:35 [INFO] Finish snapshot
+16:07:35 [INFO] Start snapshot
+16:07:35 [INFO] Finish snapshot
+16:08:35 [INFO] Start snapshot
+16:08:35 [INFO] Finish snapshot
+16:09:35 [INFO] Start snapshot
+16:09:35 [INFO] Finish snapshot
+16:10:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:10:35 [INFO] Start snapshot
+16:10:35 [INFO] Finish snapshot
+16:11:35 [INFO] Start snapshot
+16:11:35 [INFO] Finish snapshot
+16:12:35 [INFO] Start snapshot
+16:12:35 [INFO] Finish snapshot
+16:13:35 [INFO] Start snapshot
+16:13:35 [INFO] Finish snapshot
+16:14:35 [INFO] Start snapshot
+16:14:35 [INFO] Finish snapshot
+16:15:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:15:35 [INFO] Start snapshot
+16:15:35 [INFO] Finish snapshot
+16:16:35 [INFO] Start snapshot
+16:16:35 [INFO] Finish snapshot
+16:17:35 [INFO] Start snapshot
+16:17:35 [INFO] Finish snapshot
+16:18:35 [INFO] Start snapshot
+16:18:35 [INFO] Finish snapshot
+16:19:35 [INFO] Start snapshot
+16:19:35 [INFO] Finish snapshot
+16:20:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:20:35 [INFO] Start snapshot
+16:20:35 [INFO] Finish snapshot
+16:21:35 [INFO] Start snapshot
+16:21:35 [INFO] Finish snapshot
+16:22:35 [INFO] Start snapshot
+16:22:35 [INFO] Finish snapshot
+16:23:35 [INFO] Start snapshot
+16:23:35 [INFO] Finish snapshot
+16:24:35 [INFO] Start snapshot
+16:24:35 [INFO] Finish snapshot
+16:25:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:25:35 [INFO] Start snapshot
+16:25:35 [INFO] Finish snapshot
+16:26:35 [INFO] Start snapshot
+16:26:35 [INFO] Finish snapshot
+16:27:35 [INFO] Start snapshot
+16:27:35 [INFO] Finish snapshot
+16:28:35 [INFO] Start snapshot
+16:28:35 [INFO] Finish snapshot
+16:29:35 [INFO] Start snapshot
+16:29:35 [INFO] Finish snapshot
+16:30:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:30:35 [INFO] Start snapshot
+16:30:35 [INFO] Finish snapshot
+16:31:35 [INFO] Start snapshot
+16:31:35 [INFO] Finish snapshot
+16:32:35 [INFO] Start snapshot
+16:32:35 [INFO] Finish snapshot
+16:33:35 [INFO] Start snapshot
+16:33:35 [INFO] Finish snapshot
+16:34:35 [INFO] Start snapshot
+16:34:35 [INFO] Finish snapshot
+16:35:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:35:35 [INFO] Start snapshot
+16:35:35 [INFO] Finish snapshot
+16:36:35 [INFO] Start snapshot
+16:36:35 [INFO] Finish snapshot
+16:37:35 [INFO] Start snapshot
+16:37:35 [INFO] Finish snapshot
+16:38:35 [INFO] Start snapshot
+16:38:35 [INFO] Finish snapshot
+16:39:35 [INFO] Start snapshot
+16:39:35 [INFO] Finish snapshot
+16:40:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:40:35 [INFO] Start snapshot
+16:40:35 [INFO] Finish snapshot
+16:41:35 [INFO] Start snapshot
+16:41:35 [INFO] Finish snapshot
+16:42:35 [INFO] Start snapshot
+16:42:35 [INFO] Finish snapshot
+16:43:35 [INFO] Start snapshot
+16:43:35 [INFO] Finish snapshot
+16:44:35 [INFO] Start snapshot
+16:44:35 [INFO] Finish snapshot
+16:45:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:45:35 [INFO] Start snapshot
+16:45:35 [INFO] Finish snapshot
+16:46:35 [INFO] Start snapshot
+16:46:35 [INFO] Finish snapshot
+16:47:35 [INFO] Start snapshot
+16:47:35 [INFO] Finish snapshot
+16:48:35 [INFO] Start snapshot
+16:48:35 [INFO] Finish snapshot
+16:49:35 [INFO] Start snapshot
+16:49:35 [INFO] Finish snapshot
+16:50:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:50:35 [INFO] Start snapshot
+16:50:35 [INFO] Finish snapshot
+16:51:35 [INFO] Start snapshot
+16:51:35 [INFO] Finish snapshot
+16:52:35 [INFO] Start snapshot
+16:52:35 [INFO] Finish snapshot
+16:53:35 [INFO] Start snapshot
+16:53:35 [INFO] Finish snapshot
+16:54:35 [INFO] Start snapshot
+16:54:35 [INFO] Finish snapshot
+16:55:33 [INFO] CleanUp! elapsed: 0ms, msg deleted: 0
+16:55:35 [INFO] Start snapshot
+16:55:35 [INFO] Finish snapshot
+16:56:35 [INFO] Start snapshot
+16:56:35 [INFO] Finish snapshot
+16:57:35 [INFO] Start snapshot
+16:57:35 [INFO] Finish snapshot
+16:58:35 [INFO] Start snapshot
+16:58:35 [INFO] Finish snapshot
+16:59:36 [INFO] Start snapshot
+16:59:36 [INFO] Finish snapshot
